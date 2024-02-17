@@ -1,0 +1,51 @@
+.b{
+    background-color:   #1fadde
+
+
+    ; 
+}
+.bg{
+background-color:  #c5ecfa
+;
+}
+.hs{
+color: white   ; 
+background-clip: text;
+text-shadow: 2px 2px  #616a6b  ;
+
+}
+a{
+color:   black ;
+}
+.text{
+color: #1fadde;
+
+
+}
+a:hover{
+color:white;
+}
+
+a:active{
+color: grey ;
+}
+span{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+}
+.tex{
+color:   black ;
+}
+.border-3{
+    color:   #616a6b   ;
+}
+.allen{
+color: white ;
+}
+.btn{
+background-color: #1fadde  ;
+color:white;
+}
+li{
+list-style: none;
+}

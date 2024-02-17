@@ -1,0 +1,41 @@
+.b{
+    background-color: #1fadde;
+}
+.bg{
+    background-color: #c5ecfa;
+   }
+   .hs{
+    background-color:   white  ;
+    background-clip: text;
+    text-shadow: 2px 2px  #1fadde   ;
+    
+   }
+   a{
+    color:   black ;
+   }
+   a:hover{
+    color:white;
+   }
+   
+   a:active{
+    color:   grey ;
+   }
+   .head{
+    color: white;
+    text-shadow: 4px 4px #1fadde  ;
+   }
+   h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  font-weight: bold;
+ }
+ .allen{
+    color:white;
+    text-shadow: 2px 2px  #616a6b
+ }
+ .he{
+       color:black;
+       text-shadow: 2px 2px white  ;
+ }
+ li{
+    list-style: none;
+   }
